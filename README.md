@@ -1,3 +1,2 @@
-# Welcome to your Lovable project
+# Nashi Sales App [v1]
 
-TODO: Document your project here
